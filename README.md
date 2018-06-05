@@ -8,6 +8,12 @@ Data provided by Action Against Hunger. They let us to work for one day with a l
 
 After exploring and making some visualizations, we started working in predictive model (one diferent model by region) wich try to predict the malnutrition using time series. We use a shiny aplication to show it.
 
+## Predictive model, and shiny app.
+
+The model have been trained using the facebook library 'prophet'.
+
+![alt text](https://github.com/AlvaroSanchez91/DataThlon2018_proj/blob/master/shyny_app.png " ")
+
 ## Visualization.
 
 We make two visualizations comparing diferent kinds of malnutrition, and one with locations where our data is taked.
@@ -18,8 +24,4 @@ We make two visualizations comparing diferent kinds of malnutrition, and one wit
 
 ![alt text](https://github.com/AlvaroSanchez91/DataThlon2018_proj/blob/master/plot_terrenos.png " ")
 
-## Predictive model, and shiny app.
 
-The model have been trained using the facebook library 'prophet'.
-
-![alt text](https://github.com/AlvaroSanchez91/DataThlon2018_proj/blob/master/shyny_app.png " ")
