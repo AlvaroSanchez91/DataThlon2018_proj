@@ -1,6 +1,6 @@
 # Call Of Data II (2018).
 
-## DataThlond description.
+## DataThlon description.
 
 Data provided by Action Against Hunger. They let us to work for one day with a lot of tables with diferent kinds of data. The aim is to create Data Science insights in order to help the organization. Once the competition is finished, participants have to remove the data.
 
